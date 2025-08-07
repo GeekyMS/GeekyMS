@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raza</h1>
-<h3 align="center">I am a student from India, currently pursuing a bachelor's in Computer Science at UMass Amherst</h3>
+<h3 align="center">I am a student, currently pursuing a bachelor's in Computer Science at UMass Amherst</h3>
 
 - 📚 Actively exploring **Systems programming, AI, and cybersecurity**
 
