@@ -17,7 +17,7 @@ When I'm not building multi-agent systems or competing in hackathons, you can fi
 
 🔭 I’m currently working on: Benchmarking pipelines for LLM factual grounding
 
-🌱 I’m currently learning: Advanced Distributed Systems & Cloud Architectures
+🌱 I’m currently learning: Advanced Distributed Systems, Cloud Architectures, and low-level systems programming in Rust
 
 <br />
 
