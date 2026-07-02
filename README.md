@@ -14,8 +14,8 @@ I split my time across two roles:
 
 The throughline: I like going one layer down.
 
-🏆 **Wins:** HackUMass XIII · Hack(H)er413
-🔭 **Now:** building a scalable multimodal AI search platform on AWS, enabling distributed VLM image tagging and text-to-SQL search across ~90K government images (EOTSS)
+🏆 **Wins:** HackUMass XIII · Hack(H)er413  
+🔭 **Now:** building a scalable multimodal AI search platform on AWS, enabling distributed VLM image tagging and text-to-SQL search across ~90K government images (EOTSS)  
 🌱 **Learning:** low-level C++ performance · the systems behind fast ML · interpreters · GPU architecture & optimization (CUDA)
 
 
