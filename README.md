@@ -1,75 +1,69 @@
-<h1 align="center">Hi 👋, I'm Raza</h1>
-<h3 align="center">
-Running on coffee ☕ and compiling complex systems 💻
-</h3>
+# Hi, I'm Raza 👋
 
-<br />
+**Working where machine learning meets the hardware it runs on.**
 
-<h3>👨‍💻 About Me</h3>
 
-I am a Computer Science student at University of Massachusetts Amherst (Class of 2028) with a 4.0 GPA. My passion lies at the intersection of Artificial Intelligence, Systems Programming, and Cybersecurity.
+### About
 
-Currently, I am an Undergraduate Researcher at the ML4Ed Lab, where I engineer Retrieval-Augmented Generation (RAG) systems to automate academic workflows.
+I'm a CS student at the University of Massachusetts Amherst (Class of 2028, 4.0 GPA). My focus sits at the **hardware–software boundary**, GPU computing, ML infrastructure, and performance, where understanding the workload and the machine underneath it both matter.
 
-When I'm not building multi-agent systems or competing in hackathons, you can find me solving algorithmic puzzles.
+I split my time across two roles:
 
-🏆 Recent Win: Winner at HackUMass XIII & Hack(H)er413
+- **Undergraduate Researcher, ML4Ed Lab** — studying how LLM pipelines fail under long-context conditions, and building benchmarks to measure it.
+- **AI/Software Engineering Intern, Commonwealth of Massachusetts (EOTSS)** — building a VLM-based image tagging and natural-language search system over ~90K government images on AWS; migrated the stack to Lambda/API Gateway via CDK and handled the latency and infra work that came with it.
 
-🔭 I’m currently working on: Benchmarking pipelines for LLM factual grounding
+The throughline: I like going one layer down.
 
-🌱 I’m currently learning: Advanced Distributed Systems, Cloud Architectures, and low-level systems programming in Rust
+🏆 **Wins:** HackUMass XIII · Hack(H)er413
+🔭 **Now:** building a scalable multimodal AI search platform on AWS, enabling distributed VLM image tagging and text-to-SQL search across ~90K government images (EOTSS)
+🌱 **Learning:** low-level C++ performance · the systems behind fast ML · interpreters · GPU architecture & optimization (CUDA)
 
-<br />
 
-<h3>🚀 Featured Projects</h3>
+### Featured Projects
 
-<table width="100%">
-<thead>
-<tr>
-<th width="25%">Project</th>
-<th width="50%">Description</th>
-<th width="25%">Tech Stack</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="center"><strong>DataVault</strong>
+**🔐 DataVault** — *Winner, HackUMass XIII*
+A privacy-preserving RAG pipeline for natural-language querying over encrypted data, with zero-memory database handling so sensitive records are never persisted in plaintext. *(Python · Docker · PostgreSQL)*
 
-<em>Winner HackUMass XIII</em></td>
+**📈 Project Oracle**
+A cloud-hosted multi-agent system for quantitative trading, delegating between Manager, Researcher, and Analyst agents over a vector store. *(AWS · C++ · Pandas)*
 
-<td>A privacy-preserving RAG pipeline enabling natural-language querying over encrypted data. Features custom gRPC connectors and zero-memory database handling.</td>
-<td align="center">
-<a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="35" height="35" /></a>
-<a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="35" height="35" /></a>
-<a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="35" height="35" /></a>
-</td>
-</tr>
-<tr>
-<td align="center"><strong>Project Oracle</strong></td>
-<td>A cloud-hosted multi-agent AI system for quantitative trading. Delegates tasks between Manager, Researcher, and Analyst agents using vector databases.</td>
-<td align="center">
-<a href="https://aws.amazon.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="35" height="35" /></a>
-<a href="https://isocpp.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="35" height="35" /></a>
-<a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="35" height="35" /></a>
-</td>
-</tr>
-<tr>
-<td align="center"><strong>Project Sentinel</strong></td>
-<td>A cybersecurity agent using an XGBoost model (98.7% recall) to detect network threats in real-time and generate human-readable reports via OpenAI API.</td>
-<td align="center">
-<a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="35" height="35" /></a>
-<a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://cdn.simpleicons.org/flask/white" alt="Flask" width="35" height="35" /></a>
-<a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="35" height="35" /></a>
-</td>
-</tr>
-</tbody>
-</table>
+**🛡️ Project Sentinel**
+A cybersecurity agent using an XGBoost model (98.7% recall) to detect network threats in real time and generate human-readable reports via the OpenAI API. *(React · Flask · scikit-learn)*
 
-<h3 align="left">Connect with me:</h3>
+
+### Connect
+
+[LinkedIn](https://linkedin.com/in/razaalaqaband) · [razaalaqaband.com](https://razaalaqaband.com)
+
+---
+
+
+### 🛠️ Languages and Tools
+
+<p align="left"><em>Systems &amp; Languages</em></p>
 <p align="left">
-<a href="https://linkedin.com/in/razaalaqaband" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raza alaqaband" height="30" width="40" /></a>
-<a href="https://razaalaqaband.com" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/domain.png" alt="razaalaqaband.com" height="30" width="40" /></a>
+<a href="https://isocpp.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
+<a href="https://developer.nvidia.com/cuda-zone" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/CUDA-76B900?logo=nvidia&logoColor=white" alt="CUDA" height="33"/></a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://cdn.simpleicons.org/flask/white" alt="Flask" width="35" height="35" /></a> <a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="35" height="35" /></a> <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="35" height="35" /></a> <a href="https://aws.amazon.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="35" height="35" /></a> </p>
+<p align="left"><em>Infrastructure &amp; Data</em></p>
+<p align="left">
+<a href="https://aws.amazon.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40" /></a>
+<a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" /></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
+<a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a>
+</p>
+
+<p align="left"><em>Web</em></p>
+<p align="left">
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
+<a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://cdn.simpleicons.org/flask/white" alt="Flask" width="35" height="35" /></a>
+</p>
