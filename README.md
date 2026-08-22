@@ -10,7 +10,7 @@ I'm a CS student at the University of Massachusetts Amherst (Class of 2028, 4.0 
 I split my time across two roles:
 
 - **Undergraduate Researcher, ML4Ed Lab** — studying how LLM pipelines fail under long-context conditions, and building benchmarks to measure it.
-- **AI/Software Engineering Intern, Commonwealth of Massachusetts (EOTSS)** — building a VLM-based image tagging and natural-language search system over ~90K government images on AWS; migrated the stack to Lambda/API Gateway via CDK and handled the latency and infra work that came with it.
+- **AI/Software Engineering Intern, Commonwealth of Massachusetts (EOTSS)** — building a VLM-based image tagging and natural-language search system over ~100K government images on AWS; migrated the stack to Lambda/API Gateway via CDK and handled the latency and infra work that came with it.
 
 The throughline: I like going one layer down.
 
